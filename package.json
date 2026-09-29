@@ -126,7 +126,7 @@
 		"coffeescript": "^1.12.7",
 		"connect": "^2.7.10",
 		"core-js": "^2.5.3",
-		"csv-parse": "^1.3.3",
+		"csv-parse": "^7.0.2",
 		"emailreplyparser": "^0.0.5",
 		"file-type": "^7.6.0",
 		"filesize": "^3.6.0",
